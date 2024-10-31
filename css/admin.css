@@ -1,0 +1,106 @@
+.adminHelpMessage {
+	color: #000000;
+	background: #fcffc4;
+	border: 1px solid #000000;
+	padding: 1ex;
+	vertical-align: middle;
+	min-height: 25px;
+	line-height: 25px;
+}
+
+.adminHelpMessage img {
+	float: left;
+	padding: 0px 10px 0px 5px;
+}
+
+
+#PresseportalAdmin .ui-tabs {
+	position: relative;
+	padding: .2em;
+}
+
+#PresseportalAdmin .ui-tabs .ui-tabs-nav {
+	margin: 0;
+	width: 100%;
+	height: 32px;
+	border-bottom: 1px solid #aaaaaa;
+}
+
+#PresseportalAdmin .ui-tabs .ui-tabs-nav ul {
+	list-style: none;
+}
+
+#PresseportalAdmin .ui-tabs .ui-tabs-nav li {
+	float: left;
+	position: relative;
+	padding: 1ex;
+	margin-right: 1ex;
+	white-space: nowrap;
+	border-width: 1px 1px 0px 1px;
+	border-color: #aaaaaa;
+	border-style: solid;
+	border-radius: 5px 5px 0 0; /* CSS3 */
+	-moz-border-radius: 5px 5px 0 0; /* Firefox */
+	-webkit-border-radius: 5px 5px 0 0; /* Safari, Chrome */
+	-khtml-border-radius: 5px 5px 0 0; /* Konqueror */
+	font-size: 13px;
+}
+
+#PresseportalAdmin .ui-tabs .ui-tabs-nav li a {
+	padding: .5em 1em;
+	text-decoration: none;
+	color: #000000;
+	background: inherit;
+}
+
+#PresseportalAdmin .ui-tabs .ui-tabs-nav li.ui-tabs-selected {
+	background-color: #eeeeee;
+	font-weight: bold;
+}
+
+#searchResourceDialog {
+	padding: .5em 1em;
+	text-decoration: none;
+	color: #000000;
+	background: inherit;
+}
+
+#searchResourceDialog #resourceSelector {
+	width: 300px;
+}
+
+#searchResourceDialog #searchResourceErrorMessage {
+	display: none;
+	text-align: center;
+	color: #ff0000;
+	font-weight: bold;
+}
+
+#searchResourceDialog .label {
+	width: 30ex;
+}
+
+#PresseportalTabGeneral {
+}
+
+#PresseportalTabGeneral .label {
+	width: 30ex;
+}
+
+#PresseportalTabResourcessCompanies {
+}
+
+#PresseportalTabResourcessCompanies .label {
+	width: 25ex;
+}
+
+#PresseportalTabOfficesCompanies .resourceRow {
+	border-bottom: 1px solid #000000;
+}
+
+#PresseportalTabCron {
+}
+
+#PresseportalTabCron .label {
+	width: 50ex;
+}

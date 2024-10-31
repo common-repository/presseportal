@@ -1,0 +1,303 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Presseportal\n"
+"POT-Creation-Date: 2013-11-07 14:05+0100\n"
+"PO-Revision-Date: 2013-11-07 14:34+0100\n"
+"Last-Translator: \n"
+"Language-Team:  <karsten@strunk.eu>\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: /home/karsten/Desktop/Wordpress-Plugins/workspace/"
+"Presseportal\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: /home/karsten/Desktop/Wordpress-Plugins/workspace/"
+"Presseportal\n"
+"X-Poedit-SearchPath-1: /home/karsten/Desktop/Wordpress-Plugins/workspace/"
+"Presseportal/admin\n"
+
+#: /home/karsten/Desktop/Wordpress-Plugins/workspace/Presseportal/PresseportalWidget.php:28
+msgid "Displays latest news from Presseportal"
+msgstr "Zeigt aktuelle Meldungen von Presseportal.de"
+
+#: /home/karsten/Desktop/Wordpress-Plugins/workspace/Presseportal/PresseportalWidget.php:85
+msgid "No stories"
+msgstr "Keine Meldungen"
+
+#: /home/karsten/Desktop/Wordpress-Plugins/workspace/Presseportal/PresseportalWidget.php:121
+msgid "Latest news"
+msgstr "Letzte Meldungen"
+
+#: /home/karsten/Desktop/Wordpress-Plugins/workspace/Presseportal/PresseportalWidget.php:130
+msgid "Title"
+msgstr "Titel"
+
+#: /home/karsten/Desktop/Wordpress-Plugins/workspace/Presseportal/PresseportalWidget.php:137
+msgid "Story count"
+msgstr "Anzahl Meldungen"
+
+#: /home/karsten/Desktop/Wordpress-Plugins/workspace/Presseportal/PresseportalWidget.php:149
+msgid "Show date"
+msgstr "Datum anzeigen"
+
+#: /home/karsten/Desktop/Wordpress-Plugins/workspace/Presseportal/PresseportalWidget.php:156
+msgid "Cache timeout"
+msgstr "Cache-Timeout"
+
+#: /home/karsten/Desktop/Wordpress-Plugins/workspace/Presseportal/PresseportalWidget.php:158
+msgid "minute"
+msgstr "Minute"
+
+#: /home/karsten/Desktop/Wordpress-Plugins/workspace/Presseportal/PresseportalWidget.php:159
+#: /home/karsten/Desktop/Wordpress-Plugins/workspace/Presseportal/PresseportalWidget.php:160
+#: /home/karsten/Desktop/Wordpress-Plugins/workspace/Presseportal/PresseportalWidget.php:161
+#: /home/karsten/Desktop/Wordpress-Plugins/workspace/Presseportal/PresseportalWidget.php:162
+msgid "minutes"
+msgstr "Minuten"
+
+#: /home/karsten/Desktop/Wordpress-Plugins/workspace/Presseportal/PresseportalWidget.php:163
+msgid "hour"
+msgstr "Stunde"
+
+#: /home/karsten/Desktop/Wordpress-Plugins/workspace/Presseportal/PresseportalWidget.php:164
+msgid "hours"
+msgstr "Stunden"
+
+#: /home/karsten/Desktop/Wordpress-Plugins/workspace/Presseportal/Presseportal.php:337
+msgid "Source"
+msgstr "Quelle"
+
+#: /home/karsten/Desktop/Wordpress-Plugins/workspace/Presseportal/Presseportal.php:381
+msgid "Presseportal: New post added"
+msgstr "Presseportal: Neue Meldungen hinzugefügt"
+
+#: /home/karsten/Desktop/Wordpress-Plugins/workspace/Presseportal/Presseportal.php:382
+msgid "URL to admin page"
+msgstr "URL zur Admin-Seite"
+
+#: /home/karsten/Desktop/Wordpress-Plugins/workspace/Presseportal/admin.php:24
+msgid "Presseportal plugin: Please enter API key and select resources to load"
+msgstr ""
+"Presseportal-Plugin: Bitte API-Schlüssel eingeben und Quellen auswählen."
+
+#: /home/karsten/Desktop/Wordpress-Plugins/workspace/Presseportal/admin.php:62
+msgid "Your settings have been saved."
+msgstr "Einstellungen wurden gespeichert."
+
+#: /home/karsten/Desktop/Wordpress-Plugins/workspace/Presseportal/admin.php:81
+msgid "Options"
+msgstr "Optionen"
+
+#: /home/karsten/Desktop/Wordpress-Plugins/workspace/Presseportal/admin.php:86
+msgid "General"
+msgstr "Allgemein"
+
+#: /home/karsten/Desktop/Wordpress-Plugins/workspace/Presseportal/admin.php:87
+msgid "Offices/Companies"
+msgstr "Dienststellen/Firmen"
+
+#: /home/karsten/Desktop/Wordpress-Plugins/workspace/Presseportal/admin.php:88
+msgid "Cronjob"
+msgstr "Cronjob"
+
+#: /home/karsten/Desktop/Wordpress-Plugins/workspace/Presseportal/admin.php:100
+msgid "Save all"
+msgstr "Alles speichern"
+
+#: /home/karsten/Desktop/Wordpress-Plugins/workspace/Presseportal/admin.php:147
+msgid "No result from server."
+msgstr "Kein Ergbnis vom Server"
+
+#: /home/karsten/Desktop/Wordpress-Plugins/workspace/Presseportal/admin.php:148
+msgid "An error occurred"
+msgstr "Ein Fehler ist aufgetreten"
+
+#: /home/karsten/Desktop/Wordpress-Plugins/workspace/Presseportal/admin.php:149
+msgid "Please enter API key"
+msgstr "Bitte API-Schlüssel eingeben"
+
+#: /home/karsten/Desktop/Wordpress-Plugins/workspace/Presseportal/admin.php:150
+msgid "Please select resource"
+msgstr "Bitte Quellen auswählen"
+
+#: /home/karsten/Desktop/Wordpress-Plugins/workspace/Presseportal/admin/cron.php:46
+msgid "Last processed story id has been reset."
+msgstr "Letzte Meldungsnummern wurde zurückgesetzt."
+
+#: /home/karsten/Desktop/Wordpress-Plugins/workspace/Presseportal/admin/cron.php:55
+msgid "Stories have been loaded."
+msgstr "Meldungen wurden geladen."
+
+#: /home/karsten/Desktop/Wordpress-Plugins/workspace/Presseportal/admin/cron.php:74
+msgid ""
+"New stories can be automatically loaded and added to your blog. This is done "
+"every hour."
+msgstr ""
+"Neue Meldungen können automatisch geladen werden und als Beiträge in Ihrem "
+"Blog gepostet werden. Dies geschieht stündlich."
+
+#: /home/karsten/Desktop/Wordpress-Plugins/workspace/Presseportal/admin/cron.php:81
+msgid "Enable cronjob"
+msgstr "Cronjob einschalten"
+
+#: /home/karsten/Desktop/Wordpress-Plugins/workspace/Presseportal/admin/cron.php:90
+msgid "Publish new posts immediately"
+msgstr "Neue Meldungen sofort veröffentlichen"
+
+#: /home/karsten/Desktop/Wordpress-Plugins/workspace/Presseportal/admin/cron.php:99
+msgid "Notify on every new story"
+msgstr "Alarmieren bei jeder neuen Meldung"
+
+#: /home/karsten/Desktop/Wordpress-Plugins/workspace/Presseportal/admin/cron.php:113
+msgid "Last processed story id"
+msgstr "Letzte Meldungsnummer"
+
+#: /home/karsten/Desktop/Wordpress-Plugins/workspace/Presseportal/admin/cron.php:116
+#: /home/karsten/Desktop/Wordpress-Plugins/workspace/Presseportal/admin/cron.php:141
+#: /home/karsten/Desktop/Wordpress-Plugins/workspace/Presseportal/admin/cron.php:149
+msgid "unknown"
+msgstr "unbekannt"
+
+#: /home/karsten/Desktop/Wordpress-Plugins/workspace/Presseportal/admin/cron.php:133
+msgid "Last cron execution time"
+msgstr "Letzte Ausführung des Cronjobs"
+
+#: /home/karsten/Desktop/Wordpress-Plugins/workspace/Presseportal/admin/cron.php:149
+msgid "Date/time"
+msgstr "Datum/Uhrzeit"
+
+#: /home/karsten/Desktop/Wordpress-Plugins/workspace/Presseportal/admin/cron.php:149
+msgid "State"
+msgstr "Status"
+
+#: /home/karsten/Desktop/Wordpress-Plugins/workspace/Presseportal/admin/cron.php:149
+msgid "successfull"
+msgstr "erfolgreich"
+
+#: /home/karsten/Desktop/Wordpress-Plugins/workspace/Presseportal/admin/cron.php:155
+msgid "Load stories now"
+msgstr "Meldungen jetzt laden"
+
+#: /home/karsten/Desktop/Wordpress-Plugins/workspace/Presseportal/admin/cron.php:157
+msgid "Reset last processed story id"
+msgstr "Letzte Meldungsnummer zurücksetzen"
+
+#: /home/karsten/Desktop/Wordpress-Plugins/workspace/Presseportal/admin/offices_companies.php:70
+msgid ""
+"On this page you can define what stories are loaded and added to your blog. "
+"Simpley select a public office or a company."
+msgstr ""
+"Auf dieser Seite können Sie wählen, aus welchen Quellen Meldungen geladen "
+"werden sollen. Wählen Sie dazu einfach eine Dienststelle oder eine Firma aus."
+
+#: /home/karsten/Desktop/Wordpress-Plugins/workspace/Presseportal/admin/offices_companies.php:80
+msgid "Office/Company"
+msgstr "Dienststelle/Firma"
+
+#: /home/karsten/Desktop/Wordpress-Plugins/workspace/Presseportal/admin/offices_companies.php:111
+msgid "Search for office/company"
+msgstr "Suchen nach Dienststellen/Firmen"
+
+#: /home/karsten/Desktop/Wordpress-Plugins/workspace/Presseportal/admin/offices_companies.php:115
+msgid "Remove office/company"
+msgstr "Dienststelle/Firma löschen"
+
+#: /home/karsten/Desktop/Wordpress-Plugins/workspace/Presseportal/admin/offices_companies.php:121
+msgid "User for new posts"
+msgstr "Benutzer für neue Beiträge"
+
+#: /home/karsten/Desktop/Wordpress-Plugins/workspace/Presseportal/admin/offices_companies.php:132
+msgid "Category for new posts"
+msgstr "Kategorie für neue Beiträge"
+
+#: /home/karsten/Desktop/Wordpress-Plugins/workspace/Presseportal/admin/offices_companies.php:157
+msgid "Search for resources"
+msgstr "Nach Quellen suchen"
+
+#: /home/karsten/Desktop/Wordpress-Plugins/workspace/Presseportal/admin/offices_companies.php:161
+msgid ""
+"You can search for German companies here. Start the search and select one "
+"item from the result list. Press apply to accept."
+msgstr ""
+"Hier können Sie nach deutschen Firmen suchen. Starten Sie die Suche und "
+"wählen Sie einen Eintrag aus der Liste."
+
+#: /home/karsten/Desktop/Wordpress-Plugins/workspace/Presseportal/admin/offices_companies.php:168
+msgid "Type"
+msgstr "Typ"
+
+#: /home/karsten/Desktop/Wordpress-Plugins/workspace/Presseportal/admin/offices_companies.php:172
+msgid "Office"
+msgstr "Dienststelle"
+
+#: /home/karsten/Desktop/Wordpress-Plugins/workspace/Presseportal/admin/offices_companies.php:173
+msgid "Company"
+msgstr "Firma"
+
+#: /home/karsten/Desktop/Wordpress-Plugins/workspace/Presseportal/admin/offices_companies.php:180
+msgid "Search terms"
+msgstr "Suchworte"
+
+#: /home/karsten/Desktop/Wordpress-Plugins/workspace/Presseportal/admin/offices_companies.php:196
+msgid "Search"
+msgstr "Suchen"
+
+#: /home/karsten/Desktop/Wordpress-Plugins/workspace/Presseportal/admin/offices_companies.php:198
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: /home/karsten/Desktop/Wordpress-Plugins/workspace/Presseportal/admin/offices_companies.php:207
+msgid "Search result"
+msgstr "Suchergebnis"
+
+#: /home/karsten/Desktop/Wordpress-Plugins/workspace/Presseportal/admin/offices_companies.php:211
+msgid "Apply"
+msgstr "Übernehmen"
+
+#: /home/karsten/Desktop/Wordpress-Plugins/workspace/Presseportal/admin/general.php:31
+msgid ""
+"This page contains fundamental plugin settings. Without API key and resource "
+"id the plugin is unable to work."
+msgstr ""
+"Diese Seite bietet grundlegende Einstellmöglichkeiten des Plugins. Ohne API-"
+"Schlüssel und Quelle kann das Plugin nicht arbeiten."
+
+#: /home/karsten/Desktop/Wordpress-Plugins/workspace/Presseportal/admin/general.php:33
+msgid ""
+"If you do not have an API key, please register on the following page to get "
+"one"
+msgstr ""
+"Wenn Sie noch keinen API-Schlüssel haben, registrieren Sie sich bitte auf "
+"folgender Seite, um einen Schlüssel zu erhalten"
+
+#: /home/karsten/Desktop/Wordpress-Plugins/workspace/Presseportal/admin/general.php:34
+msgid "Click here"
+msgstr "Hier clicken"
+
+#: /home/karsten/Desktop/Wordpress-Plugins/workspace/Presseportal/admin/general.php:41
+msgid "Presseportal API key"
+msgstr "Presseportal API-Schlüssel"
+
+#: /home/karsten/Desktop/Wordpress-Plugins/workspace/Presseportal/admin/general.php:51
+msgid "Default user for new posts"
+msgstr "Benutzer für neue Beiträge (Default)"
+
+#: /home/karsten/Desktop/Wordpress-Plugins/workspace/Presseportal/admin/general.php:63
+msgid "Default category for new posts"
+msgstr "Kategorie für neue Beiträge (Default)"
+
+#: /home/karsten/Desktop/Wordpress-Plugins/workspace/Presseportal/admin/general.php:75
+msgid "Default positive filters"
+msgstr "Positiver Filter (Default)"
+
+#: /home/karsten/Desktop/Wordpress-Plugins/workspace/Presseportal/admin/general.php:76
+#: /home/karsten/Desktop/Wordpress-Plugins/workspace/Presseportal/admin/general.php:87
+msgid "Separate multiple filters by comma."
+msgstr "Mehrere Filter durch Komma trennen"
+
+#: /home/karsten/Desktop/Wordpress-Plugins/workspace/Presseportal/admin/general.php:86
+msgid "Default negative filters"
+msgstr "Negativer Filter (Default)"
